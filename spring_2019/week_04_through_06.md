@@ -4,7 +4,7 @@
 ![Screenshot 1](https://snag.gy/zIEgur.jpg)
 ![Screenshot 2](https://snag.gy/I4oSct.jpg)
 > I didn't have time to begin Swift development yet, and in the meantime I have been learning Swift through 
-> Apple's guides ![here](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)
+> Apple's guides here: https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
 
 ## This Week's Plan
 
