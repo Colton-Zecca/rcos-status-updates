@@ -11,13 +11,19 @@ and resized them into their 3 respective sizes for XCode using Photoshop. Then, 
 the images into each tab view controller in the storyboard appropriately with proper names.
 
 PNG Files Made:
+
 ![PNG Files Made](https://snag.gy/VSz1y0.jpg)
 
+
 The Imported Icons in XCode:
+
 ![Icons in XCode](https://snag.gy/uYy6mH.jpg)
 
+
 Screenshot of the iOS App After Implementing Images:
+
 ![App Screenshot](https://snag.gy/FoGwCZ.jpg)
+
 
 ## This Week's Plan
 
